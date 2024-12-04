@@ -1,0 +1,9 @@
+build32/*
+build64/*
+Log
+inject.txt
+*.log
+GameCache
+cmake-build64/
+cmake-build64/*
+cmake-build64/*.*
