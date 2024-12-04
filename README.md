@@ -1,4 +1,4 @@
-# Mobile Game Penetration Testing Framework
+# Mobile Game Penetration Testing Framework  [中文](#chinese)
 
 This is a penetration testing framework for Android mobile games, integrating attack tools targeting Unity, IL2CPP, Mono, and Lua game frameworks. The tools include features such as speed hacking, script decryption, code injection, function hooking, virtualization, stealth hooking, memory data monitoring APIs, along with a series of auxiliary tools.
 
@@ -15,6 +15,8 @@ build.sh
 
 # How to View Logs
 logTagConsole.sh
+
+
 
 
 # 手游渗透测试框架   
@@ -34,3 +36,5 @@ build.sh
 
 # 如何查看日志   
 logTagConsole.sh   
+
+## 中文
